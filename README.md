@@ -33,24 +33,6 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 
-### 🚀 Projects
-
-| 프로젝트 | 소개 | 스택 |
-|---|---|---|
-| **[whycode](https://why-code.com)**<br><sub>[se-zero/history-tracker](https://github.com/se-zero/history-tracker)</sub> | GitHub·Jira·Slack에 흩어진 협업 기록을 지식 그래프로 묶어, 코드가 *왜* 바뀌었는지 자연어로 찾아 주는 GraphRAG 서비스 · 2인 공동 개발 | Spring Boot · FastAPI · Neo4j · RabbitMQ · React |
-| **[Jipyo (지표)](https://jipyo.net)**<br><sub>[Oxalidaceae/stock-app](https://github.com/Oxalidaceae/stock-app)</sub> | DART 공시·재무제표, 한국은행 경제지표, KOSPI/KOSDAQ 시세를 한 곳에서 보는 투자 정보 서비스 · 개인 프로젝트 (기획·개발·운영) | Spring Boot · React · Python · PostgreSQL · Cloudflare Tunnel |
-| **[TCP Website](https://teamcrazyperformance.com)**<br><sub>[TeamCrazyPerformance/TCP_Website_2025](https://github.com/TeamCrazyPerformance/TCP_Website_2025)</sub> | TeamCrazyPerformance 웹사이트 · 스터디·인증·모집·관리자 기능 개발 (API + 웹) | NestJS · React · PostgreSQL · ELK |
-| **[running](https://github.com/Oxalidaceae/running)** | 2025 서울과기대 컴공 해커톤 — 위치·고도 데이터와 Gemini로 러닝 코스를 추천 | Express · Gemini · React · Tailwind |
-| **[backend-public](https://github.com/AdvancedWebProgramming-6/backend-public)** | 고급웹프로그래밍 팀 프로젝트 — Nginx 게이트웨이 뒤 NestJS·Flask 마이크로서비스와 LLM 기능 | NestJS · Flask · LangChain |
-
 ### 🧩 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junesue02)](https://solved.ac/profile/junesue02)
-
-### 🐍 Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oxalidaceae/Oxalidaceae/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oxalidaceae/Oxalidaceae/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Oxalidaceae/Oxalidaceae/output/github-snake.svg" />
-</picture>
