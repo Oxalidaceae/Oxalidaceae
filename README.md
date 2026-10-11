@@ -14,24 +14,23 @@
 ### 🛠 Tech Stack
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=java,ts,js,py" alt="Java, TypeScript, JavaScript, Python" />
+<img src="https://skillicons.dev/icons?i=java,ts,py" alt="Java, TypeScript, Python" />
 
 **Backend**<br>
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,fastapi,flask" alt="Spring Boot, NestJS, Node.js, Express, FastAPI, Flask" />
+<img src="https://skillicons.dev/icons?i=spring,nestjs,fastapi" alt="Spring Boot, NestJS, FastAPI" />
 
 **Frontend**<br>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,vite" alt="React, Vite" />
 
 **Data · Messaging**<br>
-<img src="https://skillicons.dev/icons?i=postgres,rabbitmq,elasticsearch" alt="PostgreSQL, RabbitMQ, Elasticsearch" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
 
 **Infra · Deploy**<br>
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel" alt="Docker, Nginx, Cloudflare, Vercel" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare" alt="Docker, Nginx, Cloudflare" />
 
 **AI · Graph**<br>
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI API" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 
 ### 🧩 Problem Solving
 
