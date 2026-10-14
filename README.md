@@ -7,9 +7,8 @@
 ### ☘️ About
 
 - 서울과학기술대학교 컴퓨터공학과
-- 기획부터 배포·운영까지 직접 하는 서비스를 만듭니다 — 지금 운영 중: [whycode](https://why-code.com), [Jipyo](https://jipyo.net)
-- 백엔드(Spring Boot · NestJS)를 중심으로 데이터 파이프라인과 LLM 기능을 만듭니다
-- 풀스택 개발자를 목표로 프론트엔드를 공부하고 있습니다
+- 기획부터 배포·운영까지 직접 하는 서비스를 만들었습다 — 지금 운영 중: [whycode](https://why-code.com), [Jipyo](https://jipyo.net)
+- 백엔드(Spring Boot · NestJS)를 중심으로 데이터 파이프라인과 LLM 기능을 만들고 있습니다
 
 ### 🛠 Tech Stack
 
