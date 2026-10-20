@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:95d5b2&height=180&section=header&text=Junsu%20Seo&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Full-stack%20Developer%20%C2%B7%20Seoultech%20CS&descSize=16&descAlignY=58" width="100%" alt="Junsu Seo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,100:95d5b2&height=180&section=header&text=Junsu%20Seo&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Seoultech%20CS&descSize=16&descAlignY=58" width="100%" alt="Junsu Seo" />
 
 </div>
 
